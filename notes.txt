@@ -1,3 +1,5 @@
 str(BASE_DIR.joinpath("templates"))
 BASE_DIR it is an object to a path of where your directory is
 str-convert it into a string
+
+To crete a
